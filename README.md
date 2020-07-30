@@ -2,7 +2,7 @@
 
 My name is João Carli!  I am a Front-end developer and passionate about creating friendly and intuitive UI Designs! I'm not the best, but I'm pretty good! :D
 
-- :office_worker: UI Designer and Front-End Developer at **SHF Framework**
+- :office_worker: Co-Founder and CMO at Rocketti 
 - :blue_heart: Techs: React.js, React Native, Node.js and TypeScript.
 - :books: Studying Laravel, PHP and VueJs
 
