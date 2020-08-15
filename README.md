@@ -36,8 +36,7 @@
 <details>
   <summary>:zap: Check my Github Stats</summary>
 
-  <img align="left" alt="Fl4m3x's Github Stats" src="https://github-readme-stats.fl4m3x.vercel.app
-/api?username=fl4m3x&show_icons=true&theme=dracula" />
+  <img align="left" alt="Fl4m3x's Github Stats" src="https://github-readme-stats.fl4m3x.vercel.app/api?username=fl4m3x&show_icons=true&theme=dracula" />
 
 </details>
 
