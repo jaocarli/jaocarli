@@ -9,9 +9,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects 💪
 - ⌨️ Fun fact: I <b>really</b> love custom keyboards!
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.fl4m3x.vercel.app/api/spotify-playing)](https://open.spotify.com/user/12169983181)
-
 <br />
 
 ### Languages and Tools:
