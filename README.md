@@ -55,7 +55,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  ![Anurag's github stats](https://github-readme-stats.fl4m3x.vercel.app/api?username=fl4m3x&show_icons=true&theme=radical)
+  ![Fl4m3x's github stats](https://github-readme-stats.fl4m3x.vercel.app/api?username=fl4m3x&show_icons=true&theme=dracula)
 
 </details>
 
