@@ -34,16 +34,15 @@
 
 
 <details>
-  <summary>:zap: Check my Github Stats</summary>
-
-  <img align="left" alt="Fl4m3x's Github Stats" src="https://github-readme-stats.fl4m3x.vercel.app/api?username=fl4m3x&show_icons=true&theme=dracula" />
-
-</details>
-
-
-<details>
   <summary>:zap: Check my Most Used Languages</summary>
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl4m3x&layout=compact&hide=html" alt="fl4m3x" />
+
+</details>
+
+<details>
+  <summary>:zap: Check my Github Stats</summary>
+
+  <img align="left" alt="Fl4m3x's Github Stats" src="https://github-readme-stats.fl4m3x.vercel.app/api?username=fl4m3x&show_icons=true&theme=dracula" />
 
 </details>
