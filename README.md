@@ -40,6 +40,8 @@
 
 </details>
 
+<br />
+
 <details>
   <summary>:zap: Check my Github Stats</summary>
 
