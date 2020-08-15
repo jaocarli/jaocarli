@@ -55,8 +55,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="FL4m3x's Github Stats" src="github-readme-stats-git-master.fl4m3x.vercel.app
-/api?username=Fl4m3x&show_icons=true&hide_border=true" />
+  <img align="left" alt="FL4m3x's Github Stats" src="github-readme-stats.fl4m3x.vercel.app/api?username=Fl4m3x&show_icons=true&hide_border=true" />
 
 </details>
 
