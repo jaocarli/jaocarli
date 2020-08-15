@@ -40,3 +40,10 @@
 
 </details>
 
+
+<details>
+  <summarry>:zap: Check my most used languages!</summary>
+  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl4m3x&layout=compact&hide=html" alt="fl4m3x" />
+
+</details>
