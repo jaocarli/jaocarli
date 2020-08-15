@@ -42,7 +42,7 @@
 
 
 <details>
-  <summarry>:zap: Check my most used languages!</summary>
+  <summary>:zap: Check my Most Used Languages</summary>
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl4m3x&layout=compact&hide=html" alt="fl4m3x" />
 
