@@ -7,7 +7,7 @@
 - 🔭 I'm a Co-Founder and CMO at [Rocketti](https://www.rocketti.com.br)
 - 🌱 I’m currently learning everything about PHP 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects 💪
-- ⌨️ Fun fact: I <b>really</b> love custom keyboards!
+- ⌨️ Fun fact: I <b>really</b> love custom keyboards and I have a custom Anne Pro 2 
 
 <br />
 
