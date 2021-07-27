@@ -5,8 +5,8 @@
 ## I'm a UI Designer and Frontend Developer!
 
 - 🔭 I'm a Co-Founder and CMO at [Rocketti](https://www.rocketti.com.br)
-- 🖥 Currently working at [YahP](https://www.yahp.com.br) as a Fullstack Junior Developer!
-- 🌱 I’m currently learning everything about PHP 🤣
+<!-- - 🖥 Currently working at [YahP](https://www.yahp.com.br) as a Fullstack Junior Developer! -->
+- 🌱 I’m currently learning everything about Dart, Flutter and React 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects 💪
 - ⌨️ Fun fact: I <b>really</b> love custom keyboards and I have a custom Anne Pro 2 
 
@@ -22,10 +22,10 @@
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="Vuejs" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/vue/vue.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flutter/flutter.png" />
+<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/dart/dart.png" />
 
 <br />
 <br />
