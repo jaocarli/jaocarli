@@ -42,7 +42,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/joao-carli/" target="_blank"><img src="https://img.shields.io/badge/-Joao%20Carli-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:thorlief.1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-thorlief.1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/joao-carli/"><img src="https://img.shields.io/badge/-Joao%20Carli-0077B5?style=flat&logo=Linkedin&logoColor=white" target="_blank" /></a>
+<a href="mailto:thorlief.1@gmail.com"><img src="https://img.shields.io/badge/-thorlief.1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
