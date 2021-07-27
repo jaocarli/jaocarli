@@ -5,7 +5,7 @@
 ## I'm a UI Designer and Frontend Developer!
 
 - 🔭 I'm a Co-Founder and CMO at [Rocketti](https://www.rocketti.com.br)
-<!-- - 🖥 Currently working at [YahP](https://www.yahp.com.br) as a Fullstack Junior Developer! -->
+
 - 🌱 I’m currently learning everything about Dart, Flutter and React 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects 💪
 - ⌨️ Fun fact: I <b>really</b> love custom keyboards and I have a custom Anne Pro 2 
@@ -30,25 +30,14 @@
 <br />
 <br />
 
-
----
-
-<details>
-  <summary>:zap: Check my Github Stats</summary>
-
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fl4m3x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-</details>
-
-
-<details>
-  <summary>:zap: Check my Most Used Languages</summary>
   
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fl4m3x&layout=compact&langs_count=8&theme=dracula"/>
 
-</details>
+<br />
+<br />
 
----
 
 ### 🤝🏻 &nbsp;Connect with Me
 
