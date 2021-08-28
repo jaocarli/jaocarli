@@ -1,4 +1,4 @@
-### Hi there, I'm João Carli aka Fl4m3x and this is my Github Page! 👋
+### Hi there, I'm João Carli and this is my Github Page! 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jaocarli?color=1da1f2&label=Follow%20me%20on%20Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/codeSTACKr&screen_name=jaocarli)
 
