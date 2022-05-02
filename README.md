@@ -4,7 +4,7 @@
 ## I'm a UI Designer and Frontend Developer!
 
 - 🌱 I’m currently learning everything about Dart, Flutter and React 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects 💪
+- 🥅 2023 Goals: Contribute more to Open Source projects 💪
 - ⌨️ Fun fact: I <b>really</b> love custom keyboards and I have a custom HyperX Allow FPS Pro
 
 <br />
