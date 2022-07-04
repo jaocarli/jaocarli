@@ -3,9 +3,9 @@
 
 ## I'm a UI Designer and Frontend Developer!
 
-- 🌱 I’m currently learning everything about Dart, Flutter and React 🤣
+- 🌱 I’m currently learning everything about Typescript, Dart, Flutter and React
 - 🥅 2023 Goals: Contribute more to Open Source projects 💪
-- ⌨️ Fun fact: I <b>really</b> love custom keyboards and I have a custom HyperX Allow FPS Pro
+- ⌨️ Fun fact: I <b>really</b> love custom keyboards and I have a custom Anne Pro 2
 
 <br />
 
