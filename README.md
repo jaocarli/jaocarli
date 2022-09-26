@@ -2,8 +2,6 @@
 <h1 align="left">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Carli!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaocarli&color=blueviolet" alt="Profile views" /> </p>
 
-- 🔥 Junior Developer focused on becoming a FullStack
-
 - 🔭 I’m currently open to work!
 
 - ▶️ Currently learning about React, Web3.0 and Golang
