@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jaocarli/bdfdb2c47ff70a90a4d7dae85a3fc87b/raw/8754b24d61f636f0d1a3352ee9c332c7dd87c961/githubcard.svg"/>
 <h1 align="left">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Carli!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaocarli&color=blueviolet" alt="Profile views" /> </p>
 
