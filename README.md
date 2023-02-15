@@ -37,8 +37,5 @@
 <a href="https://www.linkedin.com/in/joao-carli/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-joaocarli-05122A?style=flat&logo=linkedin" alt="youtube"/>
 </a>
-<a href="https://www.instagram.com/jaodotjs/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-joaocarli-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 </p>
 
