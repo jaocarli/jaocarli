@@ -1,11 +1,11 @@
 <h1 align="left">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Carli!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaocarli&color=blueviolet" alt="Profile views" /> </p>
 
-- 🔭 I’m currently open to work!
-
 - ▶️ Currently learning about React, Web3.0 and Golang
 
 - ⚡ Fun fact **I love custom mechanical keyboards ⌨️**
+
+- ⚒ Co-owner and CTO @ Shift.IA 
 
 <br><br>
 
