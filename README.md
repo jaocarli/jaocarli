@@ -5,7 +5,8 @@
 
 - ⚡ Fun fact **I love custom mechanical keyboards ⌨️**
 
-- ⚒ Co-owner and CTO @ Shift.IA 
+- ⚒ Co-owner and CTO @ Shift.IA
+- ⚒ Owner @ Strct 
 
 <br><br>
 
